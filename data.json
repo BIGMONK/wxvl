@@ -16131,5 +16131,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486586&idx=1&sn=a64429cb46676df4b223b1e98cd3ad4b": "代码审计-thinkphp历史漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497223&idx=1&sn=b00442fda4e3c5789c63aff319b45698": "英伟达GPU爆出硬件漏洞，可导致AI大模型“脑瘫”"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497223&idx=1&sn=b00442fda4e3c5789c63aff319b45698": "英伟达GPU爆出硬件漏洞，可导致AI大模型“脑瘫”",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487755&idx=1&sn=72978a3fb406810d856d46411a32217c": "Jeecg-boot v2.1.2-v3.0.0 SQL注入漏洞+敏感接口分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486584&idx=1&sn=b255c35c4fec126d5d6a0863124cba11": "代码审计-ASP.NET项目-未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程"
 }
