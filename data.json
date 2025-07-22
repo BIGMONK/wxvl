@@ -16144,5 +16144,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247549049&idx=1&sn=a9888999b1ca98221bbf60a15eb7564c": "企业最易遭遇的十大IT安全漏洞解析",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzUwNDEzNg==&mid=2247484305&idx=1&sn=74f8bcf6726c3f25573c3c11d5c7f338": "Golang 也能写出丝滑 GUI？试试 Wails 框架开发GUI EXP工具！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=1&sn=522969c64e7e97b9653ead4faf6c2488": "【安全圈】微软服务器软件被曝严重安全漏洞，黑客借此在全球发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487598&idx=1&sn=ea41e76ec767e519046d6ce0caf0f8d1": "FortiWeb CVE-2025-25257",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491779&idx=1&sn=12ff9751f119959893e7de188ad67dcd": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月21日",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=2&sn=cc080e4dacc81a264d47a38d4d78fd29": "漏洞预警 | Oracle WebLogicServer 未授权访问漏洞"
 }
